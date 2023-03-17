@@ -1,0 +1,12 @@
+name: ip2country
+description: Standalone and fully offline IP-to-Country lookup table and CIDR prefix finder.
+version: 1.0.0
+repository: https://github.com/xclud/dart_ip2country
+homepage: https://pwa.ir
+
+environment:
+  sdk: ">=2.12.2 <3.0.0"
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
